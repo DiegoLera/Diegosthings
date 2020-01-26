@@ -1,1 +1,3 @@
-//README HOSTIA PUTA
+//README
+
+Electronics and automation industrial engeniering
