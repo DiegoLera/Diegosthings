@@ -38,22 +38,28 @@
 **2002**
 ---
 
-1. Prediction and Optimization of Weld Bead Volume for the Submerged Arc Process (Part 1 and 2)
+9. Prediction and Optimization of Weld Bead Volume for the Submerged Arc Process (Part 1 and 2)
 
 *BY V. GUNARAJ AND N. MURUGAN*
 **2000**
 
 Structural steel (IS: 2062), 6mm-thick IS plates using 3.15mm-diameter steel electrodes.
 Incluye las ecuaciones de modelos obtenidos por regresión para las variables: Penetración (mm), Sobreespesor (Reinforcement (mm)), Ancho de hilo (mm), Area de penetracion (mm^2), Area de Sobreespesor (mm^2), Porcentaje de disolución (-) y Volumen total del cordón (mm^3).
+
 Los modelos tienen el formato: **y = f(V, F, S, N) = b0 + b1V + b2F + b3S + b4N + b11V2 + b22F2 + b33S2 + b44N2 + b12VF + b13VS + b14VN + b23FS + b24FN + b34SN.**
+
+(Voltaje, Velocidad de Alimentación (Fed), Velocidad de Avance y Stick-Out)
+
+También incluye gráficas sobre cómo afecta cada uno de estos parámetros.
+
 ---
-1. Houldcroft, P. T. 1989. Submerged Arc Welding. Abington Publishers, U.K.
+10. Houldcroft, P. T. 1989. Submerged Arc Welding. Abington Publishers, U.K.
 
 Referencia de uso del SAW: Uno de los mayores procesos de fabricación en la industria por sus inherentes ventajas, incluyendo penetración profunda y suavidad del cordón.
 
 ---
 
-2. Annon. 1978. Principles of Industrial Welding. The James F. Lincoln Arc Welding Foundation, Cleveland, Ohio.
+11. Annon. 1978. Principles of Industrial Welding. The James F. Lincoln Arc Welding Foundation, Cleveland, Ohio.
 
 Referencia de uso del SAW: Uno de los mayores procesos de fabricación en la industria por sus inherentes ventajas, incluyendo penetración profunda y suavidad del cordón.
 
