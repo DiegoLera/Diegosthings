@@ -102,3 +102,24 @@ Referencia de uso del SAW: Uno de los mayores procesos de fabricación en la ind
 Referencia de uso del SAW: Uno de los mayores procesos de fabricación en la industria por sus inherentes ventajas, incluyendo penetración profunda y suavidad del cordón.
 
 ---
+
+12- Autonomous programming and adaptive filling of lap joint based on three-dimensional welding-seam model by laser scanning
+
+*Minzhi Yan, Ke Zhang, Di Liu, Hao Yang, Zhuguo Li* **2020**
+
+Parámmetros: velocidad, corriente, voltaje, stick-out, flujo de gas y postura del electrodo
+
+Métodos comunes de modelado: regresión y redes neuronales, estas muestran un rendimiento excelente para modelos no lineares (24-30)
+
+Soldadura MAG, alta velocidad, alta deposición y alta compatibilidad con distintas posiciones. Se utiliza una junta en escalón, variando el "gap" como entrada para obtener la tensión y el voltaje como salida.
+
+
+
+---
+
+13- Ahmed et al.
+
+Used radial-basis-function (RBF) neural-network and multilayer perceptron neural-network models to predict weld geometry.
+
+
+---
